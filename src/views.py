@@ -149,7 +149,7 @@ def main_page(date_time_str: str) -> str:
     logger.info(f"Запрос главной страницы для даты: {date_time_str}")
 
     try:
-        df = pd.read_excel('data/operations.xls')
+        df = pd.read_excel('data/operations.xlsx')
         df['Дата операции'] = pd.to_datetime(df['Дата операции'], errors='coerce')
     except Exception as e:
         logger.error(f"Ошибка загрузки Excel: {e}")
