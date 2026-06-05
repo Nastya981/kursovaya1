@@ -1,3 +1,26 @@
 2026-06-05 13:59:37 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2026-06-05 14:00:07 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2026-06-05 14:01:46 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:08:30 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:08:31 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:08:36 | views | INFO | Запрос главной страницы для даты: 2024-01-20 12:00:00
+2026-06-05 14:08:36 | views | ERROR | Ошибка загрузки Excel: [Errno 2] No such file or directory: 'data/operations.xls'
+2026-06-05 14:09:05 | views | INFO | Запрос главной страницы для даты: 2024-01-20 12:00:00
+2026-06-05 14:09:05 | views | ERROR | Ошибка загрузки Excel: [Errno 2] No such file or directory: 'data/operations.xls'
+2026-06-05 14:09:50 | views | INFO | Запрос главной страницы для даты: 2024-01-20 12:00:00
+2026-06-05 14:09:50 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:09:51 | views | INFO | JSON-ответ успешно сформирован
+2026-06-05 14:13:09 | views | INFO | Запрос страницы событий для даты: 2024-01-20 12:00:00, период: M
+2026-06-05 14:13:09 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:13:09 | views | INFO | JSON-ответ для страницы событий успешно сформирован
+2026-06-05 14:13:09 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:13:37 | views | INFO | Запрос страницы событий для даты: 2024-01-20 12:00:00, период: M
+2026-06-05 14:13:38 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:13:38 | views | INFO | JSON-ответ для страницы событий успешно сформирован
+2026-06-05 14:13:45 | views | INFO | Запрос страницы событий для даты: 2024-01-20 12:00:00, период: M
+2026-06-05 14:13:45 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:13:45 | views | INFO | JSON-ответ для страницы событий успешно сформирован
+2026-06-05 14:13:45 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:15:23 | views | INFO | Запрос главной страницы для даты: 2024-01-20 12:00:00
+2026-06-05 14:15:23 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-05 14:15:24 | views | INFO | JSON-ответ успешно сформирован
