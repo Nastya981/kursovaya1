@@ -24,3 +24,11 @@
 2026-06-05 14:15:23 | views | INFO | Запрос главной страницы для даты: 2024-01-20 12:00:00
 2026-06-05 14:15:23 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
 2026-06-05 14:15:24 | views | INFO | JSON-ответ успешно сформирован
+2026-06-15 15:44:50 | views | INFO | Запрос страницы событий для даты: 2024-01-20 12:00:00, период: M
+2026-06-15 15:44:50 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-15 15:44:50 | views | INFO | JSON-ответ для страницы событий успешно сформирован
+2026-06-15 15:44:50 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-15 15:49:32 | views | INFO | Запрос страницы событий для даты: 2024-01-20 12:00:00, период: M
+2026-06-15 15:49:32 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2026-06-15 15:49:32 | views | INFO | JSON-ответ для страницы событий успешно сформирован
+2026-06-15 15:49:33 | views | ERROR | Ошибка загрузки настроек: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
